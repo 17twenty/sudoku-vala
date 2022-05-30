@@ -1,6 +1,0 @@
-README
--------
-
-This is my first bash at porting gnome-sudoku over to Vala. It uses resources
-found in the original and is released under LGPLv2 unless mentioned otherwise.
-
